@@ -6,7 +6,7 @@
 
 ### The Zen School of GitHub Actions – Devoxx 2022
 
-- Slides (TODO)
+- Slides – [The Zen School of GitHub Actions](https://github.com/jon-ruckwood/devoxx-2022/blob/main/The%20Zen%20School%20of%20GitHub%20Actions%20-%20Devoxx%20UK%202022.pdf) (PDF)
 
 ### School of Zen Motoring
 
